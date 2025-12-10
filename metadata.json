@@ -1,0 +1,8 @@
+{
+  "name": "Transformers.js vs Cloud AI",
+  "description": "A comparative showcase of Client-side AI (Transformers.js) versus Cloud AI (Gemini API) for sentiment analysis and object detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
